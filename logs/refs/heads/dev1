@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 f7cf581bdb1785327a88fca4e9348d64f863313d Rajlaxmi Bhadane <rajlaxmibhadane1998@gmail.com> 1733398186 +0530	branch: Created from main
+f7cf581bdb1785327a88fca4e9348d64f863313d 30d9119568db6403364cfdef0d86390868dd1886 Rajlaxmi Bhadane <rajlaxmibhadane1998@gmail.com> 1733398298 +0530	commit: data7.txt
+30d9119568db6403364cfdef0d86390868dd1886 b58c5b935a21c7071ddc4e9eb66aa98f50fed827 Rajlaxmi Bhadane <rajlaxmibhadane1998@gmail.com> 1733398656 +0530	commit: data8 data9 added
+b58c5b935a21c7071ddc4e9eb66aa98f50fed827 b716361c6c2b33064b984eca7c2de761a7330c4c Rajlaxmi Bhadane <rajlaxmibhadane1998@gmail.com> 1733398717 +0530	commit (amend): data8 and data9 added
+b716361c6c2b33064b984eca7c2de761a7330c4c 67bc75b8d7d09e468a0699bd529f2e6596c51b30 Rajlaxmi Bhadane <rajlaxmibhadane1998@gmail.com> 1733398826 +0530	commit (amend): data8, data9 and data10 added
+67bc75b8d7d09e468a0699bd529f2e6596c51b30 cd51f0542b61717aaeec2c5d89e2b24fcb03fff1 Rajlaxmi Bhadane <rajlaxmibhadane1998@gmail.com> 1733399064 +0530	commit: Create data11.txt
+cd51f0542b61717aaeec2c5d89e2b24fcb03fff1 64285a36063c1f82937993e5c7e7bcb655f194a2 Rajlaxmi Bhadane <rajlaxmibhadane1998@gmail.com> 1733399098 +0530	revert: Revert "Create data11.txt"
+64285a36063c1f82937993e5c7e7bcb655f194a2 30d9119568db6403364cfdef0d86390868dd1886 Rajlaxmi Bhadane <rajlaxmibhadane1998@gmail.com> 1733399216 +0530	reset: moving to 30d9119568db6403364cfdef0d86390868dd1886
+30d9119568db6403364cfdef0d86390868dd1886 394772ce79414fe760cc814fb567f1dcde8c9771 Rajlaxmi Bhadane <rajlaxmibhadane1998@gmail.com> 1733399274 +0530	commit: data
+394772ce79414fe760cc814fb567f1dcde8c9771 d03228d9eabe6949a4400cf8686e5862a810deaf Rajlaxmi Bhadane <rajlaxmibhadane1998@gmail.com> 1733399391 +0530	rebase (finish): refs/heads/dev1 onto f7cf581bdb1785327a88fca4e9348d64f863313d
